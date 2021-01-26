@@ -1,0 +1,4 @@
+outs:
+- md5: 6c9ba740eef761ef51fb755203903335
+  size: 36039888
+  path: model_last.weights
